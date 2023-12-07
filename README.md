@@ -7,5 +7,6 @@
 [เว็บซื้อหวย](https://nopa9.com/)
 
 
-|![Image 1](https://th-test-11.slatic.net/p/6a78913c131cfcd539813bd4b7c42459.png) | ![Image 2](https://th-test-11.slatic.net/p/6a78913c131cfcd539813bd4b7c42459.png)|
-
+| ![Image 1](https://th-test-11.slatic.net/p/6a78913c131cfcd539813bd4b7c42459.png) | ![Image 2](https://th-test-11.slatic.net/p/6a78913c131cfcd539813bd4b7c42459.png) |
+|:-----------------------:|:-----------------------:|
+|      Text 1 goes here   |      Text 2 goes here   |
